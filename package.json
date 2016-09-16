@@ -1,0 +1,14 @@
+{
+  "name": "jsgui2-ordered-string-list",
+  "main": "ordered-string-list.js",
+  "license" : "MIT",
+  "engines" : { "node" : ">=6.5.0" },
+  "description": "jsgui2 ES6 class that holds a list of strings, in order",
+  "author": "James Vickers <james@metabench.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/metabench/jsgui2-ordered-string-list.git"
+  },
+  "version": "0.0.1"
+
+}
